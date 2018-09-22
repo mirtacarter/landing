@@ -80,6 +80,12 @@
     }
   }
 
+  @media (max-width: 600px) {
+    #start {
+      display: none;
+    }
+  }
+
   .btn-dark {
     background-color : #31B0D5;
     color: white;
